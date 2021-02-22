@@ -1,0 +1,20 @@
+.MainBoard{
+    width: 70%;
+    height: 100%; 
+    position: absolute;
+    top: 0;
+    background-color:rgb(29, 143, 250);
+    display: flex;
+    justify-content: center;
+}
+
+.MainBoard > * {
+    color:rgb(223, 30, 30);
+}
+
+.Forecast{
+    margin-top: 15%;
+    display: table;
+    vertical-align: middle;
+    display: table-cell;
+}

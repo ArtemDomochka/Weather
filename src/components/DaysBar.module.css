@@ -1,0 +1,20 @@
+.DaysBar{
+    width: 30%;
+    height: 99%;
+    position: absolute;
+    right: 0;
+}
+
+.DaysBar > *{
+    color: rgb(61, 24, 104);
+}
+
+.Day{
+    width: 99%;
+    height: 11.9%;
+    border: 2px solid rgb(29, 143, 250);
+    background-color:rgb(25, 112, 226);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,23 @@
+.WeatherBoard{
+    width: 80%;
+    height: 85%;
+    border: 2px solid black;
+    position:absolute;
+    margin: 4% 10%;
+}
+
+.LoadingScreen{
+    width: 80%;
+    height: 85%;
+    border: 2px solid black;
+    margin: 4% 10%;
+    background-color: rgb(29, 143, 250);
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.LoadingScreen > *{
+    color: rgb(223, 30, 30);
+}

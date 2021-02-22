@@ -1,0 +1,57 @@
+Current:
+    dt
+    sunrise
+    sunset
+    temp
+    feels_like
+    pressure
+    humidity
+    dew_point
+    clouds
+    uvi
+    visibility
+    wind_speed
+    wind_gust
+    wind_deg
+    rain
+    snow
+    weather
+
+Hour:
+    dt
+    sunrise - not provided
+    sunset - not provided
+    temp
+    feels_like
+    pressure
+    humidity
+    dew_point
+    clouds
+    uvi - not provided
+    visibility
+    wind_speed
+    wind_gust
+    wind_deg
+    rain
+    snow
+    weather
+    pop - unique
+
+Day:
+    dt
+    sunrise 
+    sunset
+    temp[] - array
+    feels_like[] - array
+    pressure
+    humidity
+    dew_point
+    clouds
+    uvi
+    visibility
+    wind_speed
+    wind_gust
+    wind_deg
+    rain
+    snow
+    weather
