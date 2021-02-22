@@ -6,6 +6,10 @@
     margin: 4% 10%;
 }
 
+.WeatherBoard > *{
+    cursor: default;
+}
+
 .LoadingScreen{
     width: 80%;
     height: 85%;
@@ -20,4 +24,5 @@
 
 .LoadingScreen > *{
     color: rgb(223, 30, 30);
+    cursor: default;
 }
